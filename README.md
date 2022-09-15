@@ -1,2 +1,2 @@
-# datos-de-ejemplo
-Datos de ejemplo
+# Datos
+Un repositorio con datos de ejemplo.
