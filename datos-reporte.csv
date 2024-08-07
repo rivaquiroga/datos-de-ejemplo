@@ -1,7 +1,4 @@
 pais,iso3,continente,anio,esperanza_vida,pib,poblacion
-Argentina,ARG,Américas,1990,72.7,8149,33100000
-Argentina,ARG,Américas,1991,72.8,8770,33500000
-Argentina,ARG,Américas,1992,73,9339,34000000
 Argentina,ARG,Américas,1993,73.4,9974,34400000
 Argentina,ARG,Américas,1994,73.4,10423,34800000
 Argentina,ARG,Américas,1995,73.5,10003,35200000
@@ -29,9 +26,6 @@ Argentina,ARG,Américas,2016,76.3,13360,43900000
 Argentina,ARG,Américas,2017,76.5,13595,44400000
 Argentina,ARG,Américas,2018,76.6,13105,44800000
 Argentina,ARG,Américas,2019,74.6,12713,45200000
-Bolivia,BOL,Américas,1990,62,1744,7010000
-Bolivia,BOL,Américas,1991,62.5,1798,7160000
-Bolivia,BOL,Américas,1992,62.9,1789,7310000
 Bolivia,BOL,Américas,1993,63.6,1827,7470000
 Bolivia,BOL,Américas,1994,64,1873,7620000
 Bolivia,BOL,Américas,1995,64.6,1920,7780000
@@ -59,9 +53,6 @@ Bolivia,BOL,Américas,2016,71.7,3119,11200000
 Bolivia,BOL,Américas,2017,71.8,3203,11400000
 Bolivia,BOL,Américas,2018,72,3291,11500000
 Bolivia,BOL,Américas,2019,69.8,3317,11700000
-Paraguay,PRY,Américas,1990,76.5,3879,4330000
-Paraguay,PRY,Américas,1991,76,3912,4450000
-Paraguay,PRY,Américas,1992,75.8,3879,4560000
 Paraguay,PRY,Américas,1993,75.7,3972,4670000
 Paraguay,PRY,Américas,1994,75.4,4084,4780000
 Paraguay,PRY,Américas,1995,75.1,4262,4890000
@@ -89,9 +80,6 @@ Paraguay,PRY,Américas,2016,76.3,5571,6870000
 Paraguay,PRY,Américas,2017,76.5,5763,6960000
 Paraguay,PRY,Américas,2018,76.6,5871,7040000
 Paraguay,PRY,Américas,2019,75.7,5774,7130000
-Perú,PER,Américas,1990,69.2,2700,22500000
-Perú,PER,Américas,1991,70,2705,23000000
-Perú,PER,Américas,1992,70.6,2638,23400000
 Perú,PER,Américas,1993,71.2,2724,23900000
 Perú,PER,Américas,1994,71.5,3002,24300000
 Perú,PER,Américas,1995,72.5,3165,24800000
@@ -119,9 +107,6 @@ Perú,PER,Américas,2016,79.8,6380,31400000
 Perú,PER,Américas,2017,80,6433,32000000
 Perú,PER,Américas,2018,80.3,6574,32500000
 Perú,PER,Américas,2019,77.4,6614,33000000
-Uruguay,URY,Américas,1990,73.4,7705,3130000
-Uruguay,URY,Américas,1991,73.5,7921,3150000
-Uruguay,URY,Américas,1992,73.3,8488,3180000
 Uruguay,URY,Américas,1993,73.6,8649,3200000
 Uruguay,URY,Américas,1994,73.7,9211,3220000
 Uruguay,URY,Américas,1995,73.9,9013,3250000
